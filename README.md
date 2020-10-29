@@ -1,2 +1,4 @@
 # Mi-primer-proyecto
-Este sera mi espacio para mis primero proyectos como developer 
+Este sera mi espacio para mis primero proyectos como developer
+
+Respositorio: Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software. 
